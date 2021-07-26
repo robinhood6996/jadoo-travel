@@ -312,6 +312,9 @@ color: white;
      flex-direction: column;
      text-align: center;
  }
+    .input-group{
+        flex-direction:coloumn;
+    }
 }
 
 
